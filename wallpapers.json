@@ -5,7 +5,7 @@
     "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/phone/abstract.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1280x1920"
+    "dimensions": "1080x1920"
     },
     {
     "name": "Astronaut",
@@ -13,7 +13,7 @@
     "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/phone/astronaut.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1280x1920"
+    "dimensions": "1080x1920"
     },
     {
     "name": "Aura",
@@ -21,7 +21,7 @@
     "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/phone/aura.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1280x1920"
+    "dimensions": "1080x1920"
     },
     {
     "name": "Autumn",
@@ -29,7 +29,7 @@
     "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/phone/autumn.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1280x1920"
+    "dimensions": "1080x1920"
     },
     {
     "name": "Ball",
@@ -37,7 +37,7 @@
     "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/phone/ball.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1280x1920"
+    "dimensions": "1080x1920"
     },
     {
     "name": "Blue",
@@ -45,7 +45,7 @@
     "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/phone/blue.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1280x1920"
+    "dimensions": "1080x1920"
     },
     {
     "name": "City",
@@ -53,15 +53,7 @@
     "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/phone/city.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1280x1920"
-    },
-    {
-    "name": "Colorful",
-    "author": "NB Design",
-    "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/phone/colorful.png?raw=true",
-    "collections": "Phone",
-    "downloadable": true,
-    "dimensions": "1280x1920"
+    "dimensions": "1080x1920"
     },
     {
     "name": "Cubes",
@@ -69,31 +61,15 @@
     "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/phone/cubes.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1280x1920"
+    "dimensions": "1080x1920"
     },
     {
-    "name": "Dark",
+    "name": "Geometry",
     "author": "NB Design",
-    "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/phone/dark.png?raw=true",
+    "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/phone/geometry.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1280x1920"
-    },
-    {
-    "name": "Earth",
-    "author": "NB Design",
-    "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/phone/earth.png?raw=true",
-    "collections": "Phone",
-    "downloadable": true,
-    "dimensions": "1280x1920"
-    },
-    {
-    "name": "Geometric",
-    "author": "NB Design",
-    "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/phone/geometric.png?raw=true",
-    "collections": "Phone",
-    "downloadable": true,
-    "dimensions": "1280x1920"
+    "dimensions": "1080x1920"
     },
     {
     "name": "Landscape",
@@ -101,7 +77,7 @@
     "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/phone/landscape.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1280x1920"
+    "dimensions": "1080x1920"
     },
     {
     "name": "Lines",
@@ -109,7 +85,7 @@
     "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/phone/lines.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1280x1920"
+    "dimensions": "1080x1920"
     },
     {
     "name": "Modern",
@@ -117,7 +93,7 @@
     "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/phone/modern.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1280x1920"
+    "dimensions": "1080x1920"
     },
     {
     "name": "Mountain",
@@ -125,7 +101,15 @@
     "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/phone/mountain.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1280x1920"
+    "dimensions": "1080x1920"
+    },
+    {
+    "name": "Night",
+    "author": "NB Design",
+    "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/phone/night.png?raw=true",
+    "collections": "Phone",
+    "downloadable": true,
+    "dimensions": "1080x1920"
     },
     {
     "name": "Oldtimer",
@@ -133,7 +117,15 @@
     "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/phone/oldtimer.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1280x1920"
+    "dimensions": "1080x1920"
+    },
+    {
+    "name": "Orbit",
+    "author": "NB Design",
+    "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/phone/orbit.png?raw=true",
+    "collections": "Phone",
+    "downloadable": true,
+    "dimensions": "1080x1920"
     },
     {
     "name": "Owl",
@@ -141,7 +133,7 @@
     "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/phone/owl.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1280x1920"
+    "dimensions": "1080x1920"
     },
     {
     "name": "Path",
@@ -149,7 +141,7 @@
     "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/phone/path.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1280x1920"
+    "dimensions": "1080x1920"
     },
     {
     "name": "Planets",
@@ -157,7 +149,15 @@
     "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/phone/planets.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1280x1920"
+    "dimensions": "1080x1920"
+    },
+    {
+    "name": "Plants",
+    "author": "NB Design",
+    "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/phone/plants.png?raw=true",
+    "collections": "Phone",
+    "downloadable": true,
+    "dimensions": "1080x1920"
     },
     {
     "name": "Red",
@@ -165,7 +165,7 @@
     "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/phone/red.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1280x1920"
+    "dimensions": "1080x1920"
     },
     {
     "name": "Skyscrapers",
@@ -173,7 +173,15 @@
     "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/phone/skyscrapers.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1280x1920"
+    "dimensions": "1080x1920"
+    },
+    {
+    "name": "Street",
+    "author": "NB Design",
+    "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/phone/street.png?raw=true",
+    "collections": "Phone",
+    "downloadable": true,
+    "dimensions": "1080x1920"
     },
     {
     "name": "Tiger",
@@ -181,15 +189,7 @@
     "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/phone/tiger.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1280x1920"
-    },
-    {
-    "name": "Triangle",
-    "author": "NB Design",
-    "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/phone/triangle.png?raw=true",
-    "collections": "Phone",
-    "downloadable": true,
-    "dimensions": "1280x1920"
+    "dimensions": "1080x1920"
     },
     {
     "name": "Wave",
@@ -197,12 +197,28 @@
     "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/phone/wave.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1280x1920"
+    "dimensions": "1080x1920"
     },
     {
-    "name": "Artistic",
+    "name": "Aurora",
     "author": "NB Design",
-    "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/tablet/artistic.png?raw=true",
+    "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/tablet/aurora.png?raw=true",
+    "collections": "Tablet",
+    "downloadable": true,
+    "dimensions": "1920x1280"
+    },
+    {
+    "name": "Balloons",
+    "author": "NB Design",
+    "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/tablet/balloons.png?raw=true",
+    "collections": "Tablet",
+    "downloadable": true,
+    "dimensions": "1920x1280"
+    },
+    {
+    "name": "Beach",
+    "author": "NB Design",
+    "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/tablet/beach.png?raw=true",
     "collections": "Tablet",
     "downloadable": true,
     "dimensions": "1920x1280"
@@ -240,9 +256,17 @@
     "dimensions": "1920x1280"
     },
     {
-    "name": "Drops",
+    "name": "Desert",
     "author": "NB Design",
-    "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/tablet/drops.png?raw=true",
+    "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/tablet/desert.png?raw=true",
+    "collections": "Tablet",
+    "downloadable": true,
+    "dimensions": "1920x1280"
+    },
+    {
+    "name": "Earth",
+    "author": "NB Design",
+    "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/tablet/earth.png?raw=true",
     "collections": "Tablet",
     "downloadable": true,
     "dimensions": "1920x1280"
@@ -264,9 +288,17 @@
     "dimensions": "1920x1280"
     },
     {
-    "name": "Galaxy",
+    "name": "House",
     "author": "NB Design",
-    "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/tablet/galaxy.png?raw=true",
+    "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/tablet/house.png?raw=true",
+    "collections": "Tablet",
+    "downloadable": true,
+    "dimensions": "1920x1280"
+    },
+    {
+    "name": "Laser",
+    "author": "NB Design",
+    "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/tablet/laser.png?raw=true",
     "collections": "Tablet",
     "downloadable": true,
     "dimensions": "1920x1280"
@@ -280,57 +312,9 @@
     "dimensions": "1920x1280"
     },
     {
-    "name": "Light",
-    "author": "NB Design",
-    "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/tablet/light.png?raw=true",
-    "collections": "Tablet",
-    "downloadable": true,
-    "dimensions": "1920x1280"
-    },
-    {
-    "name": "Monochrome",
-    "author": "NB Design",
-    "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/tablet/monochrome.png?raw=true",
-    "collections": "Tablet",
-    "downloadable": true,
-    "dimensions": "1920x1280"
-    },
-    {
-    "name": "Paradox",
-    "author": "NB Design",
-    "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/tablet/paradox.png?raw=true",
-    "collections": "Tablet",
-    "downloadable": true,
-    "dimensions": "1920x1280"
-    },
-    {
     "name": "Pattern",
     "author": "NB Design",
     "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/tablet/pattern.png?raw=true",
-    "collections": "Tablet",
-    "downloadable": true,
-    "dimensions": "1920x1280"
-    },
-    {
-    "name": "Plant",
-    "author": "NB Design",
-    "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/tablet/plant.png?raw=true",
-    "collections": "Tablet",
-    "downloadable": true,
-    "dimensions": "1920x1280"
-    },
-    {
-    "name": "Race",
-    "author": "NB Design",
-    "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/tablet/race.png?raw=true",
-    "collections": "Tablet",
-    "downloadable": true,
-    "dimensions": "1920x1280"
-    },
-    {
-    "name": "Retro",
-    "author": "NB Design",
-    "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/tablet/retro.png?raw=true",
     "collections": "Tablet",
     "downloadable": true,
     "dimensions": "1920x1280"
@@ -344,9 +328,17 @@
     "dimensions": "1920x1280"
     },
     {
-    "name": "Sphere",
+    "name": "Saturn",
     "author": "NB Design",
-    "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/tablet/sphere.png?raw=true",
+    "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/tablet/saturn.png?raw=true",
+    "collections": "Tablet",
+    "downloadable": true,
+    "dimensions": "1920x1280"
+    },
+    {
+    "name": "Ship",
+    "author": "NB Design",
+    "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/tablet/ship.png?raw=true",
     "collections": "Tablet",
     "downloadable": true,
     "dimensions": "1920x1280"
@@ -360,9 +352,9 @@
     "dimensions": "1920x1280"
     },
     {
-    "name": "Sunlight",
+    "name": "Sunset",
     "author": "NB Design",
-    "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/tablet/sunlight.png?raw=true",
+    "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/tablet/sunset.png?raw=true",
     "collections": "Tablet",
     "downloadable": true,
     "dimensions": "1920x1280"
@@ -376,9 +368,17 @@
     "dimensions": "1920x1280"
     },
     {
-    "name": "White",
+    "name": "Triangles",
     "author": "NB Design",
-    "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/tablet/white.png?raw=true",
+    "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/tablet/triangles.png?raw=true",
+    "collections": "Tablet",
+    "downloadable": true,
+    "dimensions": "1920x1280"
+    },
+    {
+    "name": "Warm",
+    "author": "NB Design",
+    "url": "https://github.com/NewBDesign/POLYCON/blob/main/wallpapers/tablet/warm.png?raw=true",
     "collections": "Tablet",
     "downloadable": true,
     "dimensions": "1920x1280"
